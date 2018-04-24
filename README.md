@@ -21,8 +21,8 @@ You will need the following things properly installed on your computer.
 ## Running / Development
 
 * `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+* Visit your app at [http://localhost:3000](http://localhost:4200).
+* Visit your tests at [http://localhost:3000/tests](http://localhost:4200/tests).
 
 ### Code Generators
 
@@ -54,4 +54,4 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-"# CPSC-473-homework8-library-app" 
+"# CPSC-473-homework8-library-app"
